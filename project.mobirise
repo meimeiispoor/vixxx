@@ -1,0 +1,3217 @@
+{
+  "settings": {
+    "name": "VIXX",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#000000",
+        "secondaryColor": "#000000",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Merriweather",
+        "subtitleFont": "Open Sans Condensed",
+        "textFont": "Ubuntu",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/027d46eeb06584f020cf3e4b24b51dd6-128x128.png",
+    "noImageResize": "",
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 119,
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "file:///D:/%E0%B8%84%E0%B8%AD%E0%B8%A1/mobirise3"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Vixx",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-3",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/vixx-n-iphone-wallpaper-awesome-pin-by-marlen-andrade-on-vixx-pinterest-of-vixx-n-iphone-wallpaper-2000x1305.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "VIXX",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\">Open to Menu</a> "
+        }
+      ]
+    },
+    "aboutvixx.html": {
+      "settings": {
+        "title": "Vixx",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "46px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "font-size": "18px",
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
+            }
+          },
+          "_anchor": "header1-j",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1df66a1a8ce6fa58d2d73fc123b44240-2000x1250.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "<a href=\"menu.html\">About</a><br><a href=\"menu.html\">(เกี่ยวกับ)</a>",
+          "text": "วิกซ์ เป็นวงบอยแบนด์ชายสัญชาติเกาหลีใต้ มีสมาชิกทั้งหมด 6 คน ได้แก่ เอ็น,เลโอ,เคน,ราวี่,ฮงบิน และฮยอก <br>สังกัดค่าย Jellyfish Entertainment ก่อตั้งวงในปี พ.ศ.2555 โดยชื่อวงมาจากคำว่า Voice, Visual, Value in Excelsis<br><br>วิกซ์ มีชื่อแฟนคลับเป็นทางการว่า Starlight (별빛)<br><br>วิกซ์ เป็นบอยแบนด์ที่ได้รับฉายา เจ้าแห่งคอนเซ็ป ด้วยคอนเซ็ปที่แปลกใหม่ เข้มข้น แรง และชัดเจน ไม่ว่าจะ คอนเซ็ปแวมไพร์ Hyde&amp;Jekyll ตุ๊กตาวูดู หุ่นยนต์ ทาสรัก เทพเจ้ากรีก-โรมัน และแนวย้อนยุค East Meet West<br><br>วิกซ์ เป็นบอยแบนด์วงแรกของต้นสังกัดค่าย Jellyfish Entertainment.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%8B%E0%B9%8C\" data-toolbar=\"-mbrBtnMove\">ดูเนื้อหาเพิ่มเติม</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-12",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=MctZLEYlU4s",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        }
+      ]
+    },
+    "album.html": {
+      "settings": {
+        "title": "Vixx",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-l",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/vixx-n-iphone-wallpaper-awesome-pin-by-marlen-andrade-on-vixx-pinterest-of-vixx-n-iphone-wallpaper-2000x1305.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Album",
+          "text": ".",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\">Back to Menu</a> "
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1y",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "Click number for see<br> the Album",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://g.co/kgs/euU5Dr\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\">1</a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://g.co/kgs/RqCy33\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\">2</a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://g.co/kgs/su15rq\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\">3</a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://g.co/kgs/XXfBph\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\">4</a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://g.co/kgs/pLZGKM\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\">5</a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://g.co/kgs/ChGmRN\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\">6</a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"https://g.co/kgs/3TVApp\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\">7</a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://g.co/kgs/JpoupC\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\">8</a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"https://g.co/kgs/xq74SJ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\">9</a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"https://g.co/kgs/FYL8Bp\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\">10</a> "
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#f2f2f2",
+              "border-color": "#f2f2f2"
+            },
+            "H4": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-2s",
+          "_params": {
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/164199695-dark-wallpapers-2000x1250.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 3,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "global",
+              "family": "et-line",
+              "active": true,
+              "link": "https://www.google.com/search?ei=pjQWXNyXLcz2vgSVmrrACg&q=vixx+&oq=vixx+&gs_l=psy-ab.3.0.0l3j0i67j0l2j0i67l2j0j0i67.7872892.7872892..7874571...0.0..0.583.583.5-1......0....1..gws-wiz.......0i71.vQyd8hoSa_w",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title1": "Group",
+          "subtitle1": "แสดงกลุ่ม",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.google.com/search?ei=pjQWXNyXLcz2vgSVmrrACg&amp;q=vixx+&amp;oq=vixx+&amp;gs_l=psy-ab.3.0.0l3j0i67j0l2j0i67l2j0j0i67.7872892.7872892..7874571...0.0..0.583.583.5-1......0....1..gws-wiz.......0i71.vQyd8hoSa_w\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">Open</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "DUO.html",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title2": "Duo",
+          "subtitle2": "แสดงคู่",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"DUO.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">Open</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "globe",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "SOLO.html",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title3": "Solo",
+          "subtitle3": "แสดงเดี่ยว",
+          "caption3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"SOLO.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">Open</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        }
+      ]
+    },
+    "menu.html": {
+      "settings": {
+        "title": "about Vixx",
+        "meta_descr": "Website Creator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "46px",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-y",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/vixx-kratos2-2000x882.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "<span style=\"line-height: 1.1;\"><br></span>Menu",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Back</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#000000"
+            }
+          },
+          "_anchor": "features1-z",
+          "_params": {
+            "columnsColor": "#000000",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/027d46eeb06584f020cf3e4b24b51dd6-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "About Vixx",
+          "subtitle1": "เกี่ยวกับวิกซ์",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"aboutvixx.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">See</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/thumb-1988231586-qlpmdsje-28f0fb828aef6119581ce3cf92a2ce31b65e3c48-900x-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Member",
+          "subtitle2": "สมาชิก",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"members.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">See</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/thumb-1988231586-5kqsxenc-26c8d160becaed5d199df8d70a8ad19c497d2922-900x-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Social",
+          "subtitle3": "ช่องทางติดตาม",
+          "caption3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"social.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">See</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vixx-eau-de-vixx-3rd-album-set-cd-photo-book-photo-card-post-guarantee-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Album",
+          "subtitle4": "อัลบัมเพลง",
+          "caption4": "",
+          "button4": "<a data-app-btn=\"true\" href=\"album.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">See</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features1-2c",
+          "_params": {
+            "columnsColor": "#ffffff",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/news41234-600x336.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Variety",
+          "subtitle1": "รายการวาไรตี้เกมโชว์ต่างๆ",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"VT.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vixx-lr-whisper-mv-600x337.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Series",
+          "subtitle2": "ละคร",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"SR.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/photo-600x333.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "100Fact",
+          "subtitle3": "100ความจริงเกี่ยวกับวิกซ์",
+          "caption3": "&nbsp;your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"Fact.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vixxshangrilaalbum-600x400.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "More",
+          "subtitle4": "รายละเอียดและผลงานตารางงาน",
+          "caption4": "",
+          "button4": "<a data-app-btn=\"true\" href=\"MORE.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        }
+      ]
+    },
+    "members.html": {
+      "settings": {
+        "title": "about Vixx",
+        "meta_descr": "Website Creator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-p",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/482078-2000x1250.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Member.",
+          "text": "Select the item you want to visit.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\">Back to Menu</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-1988231586-1jxijqn3-1847d1adee8625ed1814fb9ea9983746ff40bd28-900x-2000x2995-800x1198.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-1988231586-1jxijqn3-1847d1adee8625ed1814fb9ea9983746ff40bd28-900x-2000x2995.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-1988231586-z70njyqo-5a0b335f18c3ab61f3a6c64d935ac53741dc2cb7-900x-2000x2995-800x1198.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-1988231586-z70njyqo-5a0b335f18c3ab61f3a6c64d935ac53741dc2cb7-900x-2000x2995.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-1988231586-neqt6wgr-d230df3176e487feac49551ba692165d7b0d2980-900x-2000x2995-800x1198.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-1988231586-neqt6wgr-d230df3176e487feac49551ba692165d7b0d2980-900x-2000x2995.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-1988231586-8pntg3nc-97f510b401a142b9793d7648676f532d8b4eb412-900x-2000x2995-800x1198.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-1988231586-8pntg3nc-97f510b401a142b9793d7648676f532d8b4eb412-900x-2000x2995.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-1988231586-l3mno0wv-81843c5930cc5f9732149b1c6f3f7ae07ed89b40-900x-2000x2995-800x1198.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-1988231586-l3mno0wv-81843c5930cc5f9732149b1c6f3f7ae07ed89b40-900x-2000x2995.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-1988231586-qcdtkwln-389931fe90f795bd30ae1daf1edc38d09f136388-900x-2000x2995-800x1198.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-1988231586-qcdtkwln-389931fe90f795bd30ae1daf1edc38d09f136388-900x-2000x2995.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-11",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_styles": {
+            "P": {
+              "color": "#f7da64",
+              "text-align": "center"
+            },
+            "H4": {
+              "color": "#f3c649"
+            }
+          },
+          "_anchor": "features6-2d",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/26339-2000x1125.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "profile-male",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "",
+              "newWindow": false
+            }
+          },
+          "title1": "N",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"N.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">SEE HIM</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "profile-male",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title2": "LEO",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"leo.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">SEE HIM</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "profile-male",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title3": "KEN",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"ken.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">SEE HIM</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "profile-male",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title4": "RAVI",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "",
+          "button4": "<a data-app-btn=\"true\" href=\"ravi.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">SEE HIM</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_styles": {
+            "P": {
+              "color": "#f7da64"
+            },
+            "H4": {
+              "color": "#f3c649"
+            }
+          },
+          "_anchor": "features6-2t",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/26339-2000x1125.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "profile-male",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "HONGBIN",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"hongbin.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">SEE HIM</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "profile-male",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title2": "HYUK",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"hyuk.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">SEE HIM</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "twitter",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title3": "TWITTER",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "แฟนเพจทวิตเตอร์",
+          "button3": "<a data-app-btn=\"true\" href=\"https://twitter.com/realvixx\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "instagram",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title4": "INSTAGRAM",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "แฟนเพจอินสตาแกรม",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.instagram.com/vixx_stargram/?hl=th\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">OPEN</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        }
+      ]
+    },
+    "social.html": {
+      "settings": {
+        "title": "fanpage",
+        "meta_descr": "Site Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-15",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/thumb-1988231586-wlefgjaa-17dfdab10f5b96d6c91b7183cd978dd5124e0c61-900x-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Social Fanpage",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\">Back</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-17",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/realvixx\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/RealVIXX/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/user/RealVIXX\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/vixx_stargram/?hl=th\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        }
+      ]
+    },
+    "N.html": {
+      "settings": {
+        "title": "Website Generator Title",
+        "meta_descr": "Website Generator Description"
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            },
+            "H3": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-1a",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/vixx-n1-1-1400x877.jpg",
+              "link": "members.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "\"N\"&nbsp;",
+          "text": "Stage Name: N (엔)<br>Birth Name: Cha Hak Yeon (차학연)<br>Position: Leader, Main Dancer, Lead Vocalist, Center<br>Birthday: June 30, 1990<br>Zodiac Sign: Cancer<br>Height: 180 cm (5’11”)<br>Weight: 65 kg (143 lbs)<br>Blood Type: A<br>Twitter: @CHA_NNNNN<br>Instagram: @achahakyeon",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5e8d66b5bbee569c1e9663f07088f32e-2000x2997-800x1198.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5e8d66b5bbee569c1e9663f07088f32e-2000x2997.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2c20fcc30fee882a4565e420c9b218c7-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2c20fcc30fee882a4565e420c9b218c7-2000x2500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/298f94d4a0db571af3d9abc11f70795e-2000x2992-800x1196.jpg",
+                "image": "@PROJECT_PATH@/assets/images/298f94d4a0db571af3d9abc11f70795e-2000x2992.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9209670f689427b8a8cd871d740393ef-2000x3553-800x1421.jpg",
+                "image": "@PROJECT_PATH@/assets/images/9209670f689427b8a8cd871d740393ef-2000x3553.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/74c56ba4d7d2100176b5833410758c21-2000x2996-800x1198.jpg",
+                "image": "@PROJECT_PATH@/assets/images/74c56ba4d7d2100176b5833410758c21-2000x2996.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-1988231586-xkuth0ge-499e7ea23c9bf1bdb7f28866fe99d206f9601202-900x-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-1988231586-xkuth0ge-499e7ea23c9bf1bdb7f28866fe99d206f9601202-900x-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/30c90cba2138b5e9ceb48d3d7012ba58-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/30c90cba2138b5e9ceb48d3d7012ba58-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-1988231586-nh7o1npq-5a56e9abc989d3b084d75c06f4a4f800e11414f4-900x-2000x3588-800x1435.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-1988231586-nh7o1npq-5a56e9abc989d3b084d75c06f4a4f800e11414f4-900x-2000x3588.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-1b",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1d",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x3000.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW HIM",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/cha_nnnnn\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/NHakyeonVixxThailand/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=_fGAXrexmJk\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/achahakyeon/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/search/pins/?q=N%20vixx&amp;rs=typed&amp;term_meta[]=N%7Ctyped&amp;term_meta[]=vixx%7Ctyped\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>     "
+        }
+      ]
+    },
+    "leo.html": {
+      "settings": {
+        "title": "Site Generator Title",
+        "meta_descr": "Site Generator Description"
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-1f",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/115128-free-dark-desktop-backgrounds-1920x1200-xiaomi-2000x1250.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/thumb-1988231586-arojtvce-6ed78c2af48c40bfe332b1093b845df3476fa6ae-900x-1400x877.jpg",
+              "link": "members.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "\"Leo\"",
+          "text": "Stage Name: Leo (레오)<br>Birth Name: Jung Taek Woon (정택운)<br>Position: Main Vocalist<br>Birthday: November 10, 1990<br>Zodiac Sign: Scorpio<br>Height: 181 cm (5’11″)<br>Weight: 59 kg (130 lbs)<br>Blood Type: O<br>Sub-Unit: VIXX LR<br>Twitter: @JUNGTW_LEO ‬<br>Instagram: @Leo_jungtw",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6e2d4442a23862d32aaabd7856be6e50-2000x2996-800x1198.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6e2d4442a23862d32aaabd7856be6e50-2000x2996.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/041c33a2c06be10790ea270e1e2ee278-2000x2975-800x1190.jpg",
+                "image": "@PROJECT_PATH@/assets/images/041c33a2c06be10790ea270e1e2ee278-2000x2975.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/55c8ad095d26e2d365acc8ab02134503-2000x2920-800x1168.jpg",
+                "image": "@PROJECT_PATH@/assets/images/55c8ad095d26e2d365acc8ab02134503-2000x2920.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/84d95fab3af0486780b191840d08df4c-2000x3549-800x1419.jpg",
+                "image": "@PROJECT_PATH@/assets/images/84d95fab3af0486780b191840d08df4c-2000x3549.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/f04ea0aa25afbd82bdae8452f23f94a6-2000x2717-800x1086.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f04ea0aa25afbd82bdae8452f23f94a6-2000x2717.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/c226d9fc9acff3f8d476e01cb1250e2c-2000x3014-800x1205.jpg",
+                "image": "@PROJECT_PATH@/assets/images/c226d9fc9acff3f8d476e01cb1250e2c-2000x3014.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/a0c9a0aca88c08a3ed2044821cfcfe33-2000x3007-800x1202.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a0c9a0aca88c08a3ed2044821cfcfe33-2000x3007.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3641cad23efce64552ed959e0ed9cd2c-2000x3510-800x1404.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3641cad23efce64552ed959e0ed9cd2c-2000x3510.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-1g",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#7c706b"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-1h",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW HIM",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/jungtw_leo\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/LeoVixxThailandFC/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://twitter.com/jungtw_leo\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/Leo_jungtw/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/search/pins/?q=leo%20vixx&amp;rs=typed&amp;term_meta[]=leo%7Ctyped&amp;term_meta[]=vixx%7Ctyped\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>     "
+        }
+      ]
+    },
+    "ken.html": {
+      "settings": {
+        "title": "Site Generator Title",
+        "meta_descr": "Site Generator Description"
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-1j",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/thumb-1988231586-vrbnps5v-4662f727db2225497b9147c5d5521c7bcb32d07d-900x-1400x877.jpg",
+              "link": "members.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "\"Ken\"",
+          "text": "Stage Name: Ken (켄)<br>Birth Name: Lee Jae Hwan (이재환)<br>Position: Main Vocalist<br>Birthday: April 6, 1992<br>Zodiac Sign: Aries<br>Height: 181 cm (5’11”)<br>Weight: 65 kg (143 lbs)<br>Blood Type: AB<br>Twitter: @jaehwany0406<br>Instagram: @keken_0406",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/55e970b0e0e19e14c62e3a81b17db8bb-2000x2996-800x1198.jpg",
+                "image": "@PROJECT_PATH@/assets/images/55e970b0e0e19e14c62e3a81b17db8bb-2000x2996.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/54d661b647a6c4622afc72ad6c7b6626-2000x2790-800x1116.jpg",
+                "image": "@PROJECT_PATH@/assets/images/54d661b647a6c4622afc72ad6c7b6626-2000x2790.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7f7acbab7479afccb4cc5c90eea831ea-1-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/7f7acbab7479afccb4cc5c90eea831ea-1-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9b7135a702fd9d2f6ff2458deca2f249-2000x2854-800x1141.jpg",
+                "image": "@PROJECT_PATH@/assets/images/9b7135a702fd9d2f6ff2458deca2f249-2000x2854.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-1988231586-ktxslbqx-aaf02f0c9cad24f9b5660bd10746eed8f6f47735-900x-2000x1497-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-1988231586-ktxslbqx-aaf02f0c9cad24f9b5660bd10746eed8f6f47735-900x-2000x1497.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/b4767a446bf10b06a12fa09764bcc6f0-2000x3553-800x1421.jpg",
+                "image": "@PROJECT_PATH@/assets/images/b4767a446bf10b06a12fa09764bcc6f0-2000x3553.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/e7accd87b4b40c94473f61c667c86345-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/e7accd87b4b40c94473f61c667c86345-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-1988231586-hydsqlij-b9888ac3332db8ff4ac11c692a34707d94a17533-900x-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-1988231586-hydsqlij-b9888ac3332db8ff4ac11c692a34707d94a17533-900x-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-1k",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-1l",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1500.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW HIM",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/jaehwany0406\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/VIXXKENTH/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=nelSiMnilRw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/keken_0406/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/search/pins/?q=ken%20vixx&amp;rs=typed&amp;term_meta[]=ken%7Ctyped&amp;term_meta[]=vixx%7Ctyped\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>     "
+        }
+      ]
+    },
+    "ravi.html": {
+      "settings": {
+        "title": "Site Generator Title",
+        "meta_descr": "Site Generator Description"
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-1n",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x3000.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/thumb-1988231586-rgtomcen-c1e4333d332f7423c367a9a49a0986ae5f955da1-900x-1400x877.jpg",
+              "link": "members.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "\"Ravi\"",
+          "text": "Stage Name: Ravi (라비)<br>Birth Name: Kim Won Shik (김원식)<br>Position: Main Rapper, Lead Dancer, Vocalist<br>Birthday: February 15, 1993<br>Zodiac Sign: Aquarius<br>Height: 183 cm (6’0″)<br>Weight: 65 kg (143 lbs)<br>Blood Type: O<br>Sub-Unit: VIXX LR<br>Twitter: @AceRavi<br>Instagram: @ravithecrackkidz",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5c2682acfbd28eebfb605976fca55d79-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5c2682acfbd28eebfb605976fca55d79-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/130d00015618687325bb0286dc8f5545-2000x2914-800x1165.jpg",
+                "image": "@PROJECT_PATH@/assets/images/130d00015618687325bb0286dc8f5545-2000x2914.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/f4f6f1de2d48fb9ef9b91965483bcf70-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f4f6f1de2d48fb9ef9b91965483bcf70-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/873b1bc3dcc61d5935c3785dec12dc5b-2000x2446-800x978.jpg",
+                "image": "@PROJECT_PATH@/assets/images/873b1bc3dcc61d5935c3785dec12dc5b-2000x2446.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/087664bc11bf4b65933c18928bc04b28-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/087664bc11bf4b65933c18928bc04b28-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ced2b907f5a43864645ed6fd26bb182f-2000x2664-800x1065.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ced2b907f5a43864645ed6fd26bb182f-2000x2664.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8282d7385168fe4df2e0a09baa4bd63f-2000x2585-800x1034.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8282d7385168fe4df2e0a09baa4bd63f-2000x2585.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cf4451f3858ecc8608fb6e88794eba2c-2000x2785-800x1114.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cf4451f3858ecc8608fb6e88794eba2c-2000x2785.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-1o",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-1p",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1328.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW HIM",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/aceravi\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/VIXXRAVITH/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=qmJL2_9BscM\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/ravithecrackkidz/?hl=en\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/search/pins/?q=ravi%20vixx&amp;rs=typed&amp;term_meta[]=ravi%7Ctyped&amp;term_meta[]=vixx%7Ctyped\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>     "
+        }
+      ]
+    },
+    "hongbin.html": {
+      "settings": {
+        "title": "Site Generator Title",
+        "meta_descr": "Site Generator Description"
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-1r",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/vixx-hongbin1-1400x877.jpg",
+              "link": "members.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "\"Hongbin\"",
+          "text": "Stage Name: Hongbin (홍빈)<br>Birth Name: Lee Hong Bin (홍빈)<br>Position: Lead Rapper, Vocalist, Visual, Face of the Group<br>Birthday: September 29, 1993<br>Zodiac Sign: Libra<br>Height: 182 cm (6’0″)<br>Weight: 62 kg (136 lbs)<br>Blood Type: B<br>Twitter: @RedBeans93<br>Instagram:  @hongbiiiiin93",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8e02e18ed8eb4ce65f7a549690cdcf9f-2000x3553-800x1421.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8e02e18ed8eb4ce65f7a549690cdcf9f-2000x3553.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8ef6cddcc9825dd5b1a87582475a2840-2000x2996-800x1198.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8ef6cddcc9825dd5b1a87582475a2840-2000x2996.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dzyuoknuqaakiik-2000x2649-800x1059.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dzyuoknuqaakiik-2000x2649.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-1988231586-28lykgk9-bb42180edbffa74485059c5c6bbc4cd03de948ec-900x-2000x3588-800x1435.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-1988231586-28lykgk9-bb42180edbffa74485059c5c6bbc4cd03de948ec-900x-2000x3588.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3464875f15495b6ee85a193cbdf21278-2000x2996-800x1198.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3464875f15495b6ee85a193cbdf21278-2000x2996.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/09e05db3277d85663aae76a46a1cace1-2000x2879-800x1151.jpg",
+                "image": "@PROJECT_PATH@/assets/images/09e05db3277d85663aae76a46a1cace1-2000x2879.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5fe0cfd7a91dfa53604ef129f73ba675-2000x2588-800x1035.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5fe0cfd7a91dfa53604ef129f73ba675-2000x2588.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/73a144eca95831fe44d57a4cb6231f25-2000x2996-800x1198.jpg",
+                "image": "@PROJECT_PATH@/assets/images/73a144eca95831fe44d57a4cb6231f25-2000x2996.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-1s",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-1t",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW HIM",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/redbeans93\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/VIXXHongbinTH/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=1vjkAX8EtBY\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/hongbiiiiin93/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/search/pins/?q=hongbin%20vixx&amp;rs=typed&amp;term_meta[]=hongbin%7Ctyped&amp;term_meta[]=vixx%7Ctyped\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>     "
+        }
+      ]
+    },
+    "hyuk.html": {
+      "settings": {
+        "title": "Site Generator Title",
+        "meta_descr": "Site Generator Description"
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-1v",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1334.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/thumb-1988231586-lgqmoijw-eead746101ab70387a554d756e329e4a0402e079-900x-1400x877.jpg",
+              "link": "members.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "\"Hyuk\"",
+          "text": "Stage Name: Hyuk (혁)<br>Birth Name: Han Sang Hyuk (한상혁)<br>Position: Main Dancer, Vocalist, Maknae<br>Birthday: July 5, 1995<br>Zodiac Sign: Cancer<br>Height: 185 cm (6’1″)<br>Weight: 62 kg (136 lbs)<br>Blood Type: O<br>Twitter: @HSangHyuk<br>Instagram: @hsh0705",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bacc49d2f9ea98bdcfd35885f3a96c90-2000x2861-800x1144.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bacc49d2f9ea98bdcfd35885f3a96c90-2000x2861.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2e062ab77759e9a80a4c7577350b6b3b-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2e062ab77759e9a80a4c7577350b6b3b-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6a499cadbc223fb5069b6934b32f1666-2000x3560-800x1424.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6a499cadbc223fb5069b6934b32f1666-2000x3560.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/36f5e1477a398054b440669e7c525439-2000x2472-800x988.jpg",
+                "image": "@PROJECT_PATH@/assets/images/36f5e1477a398054b440669e7c525439-2000x2472.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/485187298e0664ecf4576d74d2074837-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/485187298e0664ecf4576d74d2074837-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/b7334370773fcd24424f0793df4165c5-2000x3042-800x1216.jpg",
+                "image": "@PROJECT_PATH@/assets/images/b7334370773fcd24424f0793df4165c5-2000x3042.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/f2fa4cc6be7ac9d85386964d65b7bf75-2000x2992-800x1196.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f2fa4cc6be7ac9d85386964d65b7bf75-2000x2992.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ca44e2ef350b87a2b69f16417dd8bff7-2000x3017-800x1206.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ca44e2ef350b87a2b69f16417dd8bff7-2000x3017.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-1w",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-1x",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1314.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW HIM",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/hsanghyuk\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/VIXXHYUKTH/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=dof_WKWTino\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/hsh0705/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/search/pins/?q=hyuk%20vixx&amp;rs=typed&amp;term_meta[]=hyuk%7Ctyped&amp;term_meta[]=vixx%7Ctyped\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>     "
+        }
+      ]
+    },
+    "SOLO.html": {
+      "settings": {
+        "title": "SOLO",
+        "meta_descr": "Website Maker Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-38",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SOLO",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\">Back to MENU</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-21",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "50",
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/thumb-1988231586-ggzmn7xx-ef1a52498567d9182e549c0393f6642dd71cffb4-900x-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.4"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=A_gPdu0_bgY",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<span style=\"font-size: 3rem; line-height: 1.1;\">LEO</span><br>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.youtube.com/results?search_query=leo+vixx\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-22",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "50",
+            "paddingTop": "6",
+            "paddingBottom": "7",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/thumb-1988231586-feeonpwg-3fc9f2d6665e7b358a86ab96ddfdf9119d07dd87-900x-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.2"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=qmJL2_9BscM",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "RAVI &nbsp; &nbsp; &nbsp;",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.youtube.com/results?search_query=vixx+ravi\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-23",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "50",
+            "paddingTop": "6",
+            "paddingBottom": "6",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/thumb-1988231586-gvbxejtd-80e21ffcd7121e2cbe2777464823a1ca6edd12f5-900x-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=nelSiMnilRw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "KEN",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.youtube.com/results?search_query=KEN+vixx\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-24",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "50",
+            "paddingTop": "6",
+            "paddingBottom": "6",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/thumb-1988231586-rckusyk5-6dcea52f415397b884da8b0f9fef5afd0742e53f-900x-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=_fGAXrexmJk",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "N",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.youtube.com/results?search_query=N+vixx\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-25",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "50",
+            "paddingTop": "6",
+            "paddingBottom": "6",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/thumb-1988231586-glppuz7o-085d753510e7b51d393e0d27307484722de8288e-900x-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=aZM4MOCzPDg",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "HONGBIN",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.youtube.com/results?search_query=HONHBIN+vixx\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-26",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "51",
+            "paddingTop": "6",
+            "paddingBottom": "6",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/thumb-1988231586-cpxskf0q-0540837607cd1f08b4c402d547c0ddf2b967c9e2-900x-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=dof_WKWTino",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "HYUK",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.youtube.com/results?search_query=HYUK+vixx\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        }
+      ]
+    },
+    "DUO.html": {
+      "settings": {
+        "title": "LEORAVI",
+        "meta_descr": "Website Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3a",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": true
+          },
+          "title": "DUO",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\">Back to MENU</a>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-text": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-28",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/thumb-1988231586-g4xyc7hr-a48394e049e7bfd2282571487c3dc389ff4c1371-900x-2000x1497.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ffffff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=55I7BIcysFQ",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "{LR}",
+          "text": "\"LR\" เป็นการจับคู่ดูโอ้ร้องเพลงกันของเมนแรปเปอร์ 'ราวี' และเมนโวคอล 'เลโอ' กับบทเพลงแรกในปี พ.ศ.2558 &nbsp;ชื่อ \"Beautiful Liar\"",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.youtube.com/results?search_query=vixx+lr\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-29",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/thumb-1988231586-ulahsdp1-107d109f57ded7f5ef8f6505611721b6e91b4966-900x-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=aOnHdPZqSuI",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "",
+          "text": "การกลับมาของคู่ดูโอ้ LR ในปี่ พ.ศ.2560 กับเพลงที่ชื่อว่า \"Whisper\"",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        }
+      ]
+    },
+    "Fact.html": {
+      "settings": {
+        "title": "Web Page Builder Title",
+        "meta_descr": "Web Page Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "72px",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2l",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1df66a1a8ce6fa58d2d73fc123b44240-2000x1250.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "100 FACT OF VIXX",
+          "text": "100 ความจริงเกี่ยวกับวิกซ์",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\">Back to MENU</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_styles": {
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "content7-2m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text1": "1.\tVIXX มาจาก Voice, Visual, Value in Excelsis<div>2.\tเอ็นชอบอ่านหนังสือ</div><div>3.\tเลโอเล่นเทควันโดเป็น</div><div>4.\tเคนชอบวาดรูป</div><div>5.\tราวี่อาบน้ำเร็วที่สุดในบรรดาเมมเบอร์</div><div>6.\tฮยอกจะพูดภาษากันเองเมื่ออยู่ในสภาวะครึ่งหลับครึ่งตื่น</div><div>7.\tฮงบินอยากเป็นกัปตันอเมริกา</div><div>8.\tราวี่เป็นคนตั้งชื่อให้ ROVIX</div><div>9.\tเอ็นอยากเป็นสไปเดอร์แมน</div><div>10.\tเลโอชอบอาหารที่แม่เขาทำมากที่สุด</div><div>11.\tฮยอกใช้เวลาแค่ 3 เดือนในการเป็นเด็กเทรนก่อนเดบิวต์ในขณะที่เอ็นเป็นเทรน 5 ปี ถึงได้เดบิวต์</div><div>12.\tราวี่อยากเป็นไอรอนแมน</div><div>13.\tฮงบินอยากเป็นเหมือนเคนเพราะเขาอยากร้องเพลงได้เพราะ</div><div>14.\tฮยอกอยากเป็น the hulk</div><div>15.\tVIXX สนิทกับ MBLAQ, JJ Project, BTOB</div><div>16.\tลักษณะผู้หญิงที่เอ็นชอบ คือ คนที่ดูไร้เดียงสา น่าทะนุถนอม ฉลาด (ซอฮยอน snsd)</div><div>17.\tลักษณะผู้หญิงที่ฮงบินชอบ คือ คนที่ใจดี คนที่ดูน่ารักเวลาแอ๊บแบ๊ว มีเหตุผล</div><div>18.\tลักษณะผู้หญิงที่เลโอชอบ คือ คนที่มีเหตุผล และมีความประใจแรกพบที่ดี</div><div>19.\tลักษณะผู้หญิงที่เคนชอบ คือ คนที่แอ๊บแบ๊วเยอะๆ</div><div>20.\tลักษณะผู้หญิงที่ราวี่ชอบ คือ คนที่น่ารัก ฉลาด และมีเหตุผล (ท่าเป็นไปได้ห้ามมีผู้ชายในที่ทำงาน)&nbsp;</div><div>21.\tลักษณะผู้หญิงที่ฮยอกชอบ คือ คนที่มีความเป็นผู้ฆญิงและน่ารัก (ดาซม Sistar)</div><div>22.\tเอ็นยกให้ฮยอกเป็นที่สุดของความน่ารัก</div><div>23.\tถ้าขอพรจากพระเจ้าได้ ฮยอกอยากขอให้พระเจ้าทำให้เอ็นเงียบ</div><div>24.\tในตอนแรกเคนไม่ชอบเลโอ เลโอไม่ชอบเอ็น แต่ปัจจุบัน แม้ว่าเมมเบอร์จะสนิทกันแล้ว แต่เลโอก็ยังไม่ชอบเอ็นเพราะเอ็นน่ารำคาญ&nbsp;</div><div>25.\tเลโอดุเคนมากที่สุด</div><div>26.\tฮงบินมีทักษะการถ่ายรูปที่ดี</div><div>27.\tของที่เคนหวงมากที่สุดคือ โมเดลเรือซันนี่จากการ์ตูนวันพีชที่เขาได้มาตั้งแต่เริ่มใช้ชีวิตในหอพัก</div><div>28.\tของที่ราวี่หวงมากที่สุด คือ สมุดจดเนื้อเพลง</div><div>29.\tของที่ฮงบินหวงมากที่สุด คือ CDของปาร์คฮโยจินที่เขียนข้อความให้กำลังใจเขา</div><div>30.\tของที่ฮยอกหวงมากที่สุด คือ สร้อยคอที่พี่สาวเขาซื้อให้</div><div>31.\tของที่เอ็นหวงมากที่สุด คือ ไดอารี่ที่เขาเขียนขณะเป็นเด็กฝึกหัด เพราะเขาเขียนเกี่ยวกับความฝันของเขา ปัญหา และ เป้าหมายของเขา</div><div>32.\tของที่เลโอหวงมากที่สุด คือ MP3 และ โรสซารี่ที่ได้มาจากแม่ของเขา</div><div>33.\tเมื่อเลโอมีช่วงเวลาที่ยากลำบาก เขาจะเอาโรสซารี่ที่ได้จากแม่ของเขาออกมาเพื่อให้เขารู้สึกดีขึ้น</div><div>34.\tฮยอกกลายเป็นผู้ใหญ่ในเวลาไม่กี่เดือนในปี 2013</div><div>35.\tในปี 2014 เอ็นหวังว่า VIXX จะกลายเป็นผู้นำเทรนได้<span style=\"font-size: 1.07rem; line-height: 1.5;\">.</span></div>",
+          "text2": "36.\tในปี 2014 เคนขอให้สตาไลท์มีสุขภาพที่แข็งแรงและสนับสนุนพวกเขาตลอดไป<div>37.\tในปี 2014 ฮงบินขอให้เมมเบอร์ทุคนมีความสัมพันธ์ที่ดีต่อกันต่อไปในอนาคต</div><div>38.\tในปี 2014 เลโอหวังว่า VIXX และครอบครัวของ VIXX และ สตาไลท์ พบแต่ความสุข</div><div>39.\tในปี 2014 ฮยอกหวังว่า VIXX จะกลายเป็นกลุ่มไอดอลที่เป็นที่รักต่อทุกคน</div><div>40.\tในปี 2014 ราวี่หวังว่า เขียนเพลงให้แก่ VIXX และศิลปินวงอื่นได้เยอะๆ</div><div>41.\tราวี่พร้อมจะทำร้ายทุกคนที่อยู่ใกล้รัศมีการนอนของเขา</div><div>42.\tเมื่อไหร่ก็ตามที่เลโอรู้สึกแย่ เอ็นจะเป็นคนที่ห่วงเลโอมากที่สุด</div><div>43.\tถ้าเคนเป็นผู้หญิง เคนจะเลือกเอ็น</div><div>44.\tฮงบินและฮยอกรู้สึกอัดอัดใจก่อนเดบิวต์แต่สนิทกันมากขึ้นหลังจาก MY DOL ep.4</div><div>45.\tคอของเอ็นยาวถึง 15 เซนติเมตร</div><div>46.\tเคนมีสายตาที่แย่ ดังนั้นเขาจึงใส่แว่นก่อนเดบิวต์</div><div>47.\tราวี่เคยล้อเคนว่า บ้านนอกเนื่องจากทรงผมที่ดูหยิกๆของเขา</div><div>48.\tเลโอมักจะมีขนมปังในกระเป๋าตลอกเวลาเพราะเขาหิวง่าย</div><div>49.\tต้นเหตุที่โทรศัพท์ของปาร์คฮโยจินแตกอย่างเลวร้ายเพราะฮงบิน</div><div>50.\tก่อนที่จะเดบิวต์ราวี่เคยฝันที่จะเป็นบอดี้การ์ดให้กับน้องสาวของเขา</div><div>51.\tและแน่นอนว่า ราวี่หวงน้องสาวมากถึงมากที่สุด</div><div>52.\tฮยอกเป็นที่นิยมในขณะอยู่ม.ต้นมาก เพราะเป็นนักเรียนดีเด่น</div><div>53.\tเอ็นชอบที่จะกอดเลโอ แม้ว่าเลโอจะขัดขืนตลอดก็ตาม</div><div>54.\tเลโอและฮงบิน ชอบใช้เวลาดูการแสดงของปาร์คฮโยจินขณะที่อยู่ในหอพักด้วยกัน</div><div>55.\tเอ็น สามารถเต้นได้เกือบทุกรูปแบบ</div><div>56.\tเคนว่ายน้ำไม่เป็น</div><div>57.\tราวี่เชี่ยวชาญด้านการพ่นสีเป็นรูปต่างๆบนกำแพง</div><div>58.\tฮยอกเกลียดทุกอย่างที่มีส่วนผสมของชีสมาก</div><div>59.\tฮงบินพูดภาษาญี่ปุ่นได้ดีที่สุดใน VIXX</div><div>60.\tเอ็นหวังว่าบริษัทของเค้าจะอนุญาตให้ พวกเขามีมือถือเป็นของตัวเอง</div><div>61.\tราวี่เคยใช้ชีวิตโดยไม่มีมือถือ 4 ปี</div><div>62.\tเลโอสามรถเต้นได้ดีแต่เขาก็ชอบที่คนอื่นๆบอกเขาว่า ร้องเพลงได้ดีเช่นกัน</div><div>63.\tฮงบินเป็นเมมเบอร์ที่สะอาดที่สุดในหอพักของVIXX</div><div>64.\tอีซึงกิ คือแบบอย่างของฮยอก</div><div>65.\tเมมเบอร์บอกฮยอกว่า เขาเหมือนอีซึงกิ ทำให้ฮยอกรู้สึกดีใจมาก</div><div>66.\tความจริงแล้วเลโอถนัดทั้ง 2 ข้าง ในขณะที่ฮงบินถนัดข้างซ้าย</div><div>67.\tในระหว่างที่ทำการแสดง Hyde แฟนๆเรียกปากของพวกเขาว่า ริมฝีปากจาจังมยอน เพราะลิปสติกสีดำที่พวกเขาทา</div><div><br></div>",
+          "text3": "68.\tเอ็นเสพติดนมรสกล้วยมาก<div>69.\tฉายาของเคนทั้งหมด ต่างตั้งโดยเขาทั้งนั้น เช่น เคนจุมม่า</div><div>70.\tราวี่หลับได้ทันทีถ้าเขาถึงห้องของเขา</div><div>71.\tหนึ่งในความสามารถของเลโอคือ การต้มรามยอนให้เมมเบอร์เขากิน</div>72.\tฮงบินเคยบวชเป็นเณรและอาศัยอยู่ในวัดตอนเขาเป็นเด็ก<div>73.\tเอ็นบอกว่า ฮยอกชอบร้องเพลงของ exo มากในขณะที่เขาไม่ค่อยฝึกเพลงของ VIXX</div><div>74.\tเมื่อเอ็นกับเลโอทะเลาะกัน เอ็นตัดสินใจไม่คุยกับเลโอแต่วันต่อมาเลโอกลับเข้ามาคุยกับเอ็นก่อน</div><div>75.\tเลโอชอบจิ้มฮงบินเวลาเขาทำท่าเป็นงานศิลปะ</div><div>76.\tเลโอชอบฮงบินมากที่สุดใน VIXX และ ไม่ชอบเอ็นมากที่สุด</div><div>77.\tเอ็นชอบแกล้งฮยอกมากที่สุด</div><div>78.\tเอ็นเคยถูกเรียกว่า Heukyeon เพราะเขาดำ (Heuk แปลว่า ดำ)</div><div>79.\tเคนเลียนเสียงสัตว์ได้หลากหลายมาก ไม่ว่าจะเป็น หมา ยุง ช้าง หรือแม้กระทั่งไดโนเสาร์บิน</div><div>80.\tเลโอเคยต้องหยุดเล่นฟุตบอลเพราะอาการบาดเจ็บของเขา</div><div>81.\tฮยอกตั้งชื่อตุ๊กตาที่ได้จากครูของเขาว่า เลโอ</div><div>82.\tฮงบินอยากลองจับคู่ทำกิจกรรมกับ Shinee แทมินถ้าเขามีโอกาส</div><div>83.\tVIXX จะได้นอนประมาณ 3 ชั่วโมงตอนกลางคืน</div><div>84.\tหากมีโอกาสราวี่สามารถหลับได้ทุกที่ แม้ว่ากล้องจะจับภาพเขาอยู่ก็ตาม</div><div>85.\tเอ็นจะทำน่าตาน่าเกลียดใส่เมมเบอร์ ทันทีถ้าพวกเขาไม่ฟังที่เอ็นพูด และคนที่รับเคราะห์มากที่สุดก็คือ เคน</div><div>86.\tเลโอชอบกินต้นหอมาก</div><div>87.\tฮยอกเลือดวงตาของเขาเป็นสิ่งที่มีสเน่ห์ที่สุดในร่างกาย</div><div>88.\tฮงบินเคยแสดงในMV tease me ของซออินกุก</div><div>89.\tผู้จัดการวงVIXX เหมือน mickey mouse</div><div>90.\tVIXX ทุกคนใส่เสื้อsize L แต่บางครั้งราวี่ก็ใส่เสื้อ Size XL</div><div>91.\tเอ็นไม่ถูกกับสัตว์เท่าไหร่ในขณะที่เลโอรักสัตว์</div><div>92.\tท่านอนของราวี่คือ หลังพิงและสองมือประสานกับบนหน้าท้อง</div><div>93.\tพี่สาวของเลโอบอกว่า ไม่อยากให้เลโอโตขึ้นเพราะเขาไม่น่ารักเหมือนเมื่อก่อนแล้ว</div><div>94.\tROVIX พูดเป็นทางการไม่ได้</div><div>95.\tเอ็น คือผู้มีอำนาจในการจับคู่นอนเมมเบอร์เมื่อพวกเขาต้องนอนที่โรงแรม</div><div>96.\tเมมเบอร์ไม่กล้าให้เลโอทำในสิ่งที่พวกเขาต้องการ ยกเว้น เอ็น&nbsp;</div><div>97.\tแม้ว่าฮยอกจะคิดว่า เขาแมนมากแต่เขาก็ยังน่ารักที่สุดใน VIXX อยู่ดี</div><div>98.\tหอพักของพวกเขาอยู่ชั้นที่ 21 และเขาเรียกมันว่า VIPRIDE มาจาก VIXX PRIDE</div><div>99.\tถ้าเลโอเลือกเมมเบอร์ที่อยากให้พี่สาวเดทด้วย เขาเลือก ฮยอก<div>100.\tเอ็นเคยออดิชั่นที่ SM JYP และ YG</div></div>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "DIV": {
+              "color": "#cccccc"
+            }
+          },
+          "_anchor": "content2-32",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "<font face=\"Open Sans Condensed, sans-serif\"><span style=\"line-height: 26px;\">[รายการเรียลลิตี้ที่ตอบคำถาม]</span></font><div><font face=\"Open Sans Condensed, sans-serif\"><span style=\"line-height: 26px;\">-Mnet MyDOL</span></font></div><div><font face=\"Open Sans Condensed, sans-serif\"><span style=\"line-height: 26px;\">-SBS MTV Diary (63 ตอน) ร่วมกับ BTOB Myname และ JJ Project</span></font></div><div><font face=\"Open Sans Condensed, sans-serif\"><span style=\"line-height: 26px;\">-VIXX TV (100 ตอน)</span></font></div><div><font face=\"Open Sans Condensed, sans-serif\"><span style=\"line-height: 26px;\">- SBS MTV Plan V Diary (5 ตอน)</span></font></div><div><font face=\"Open Sans Condensed, sans-serif\"><span style=\"line-height: 26px;\">-Mnet Japan VIXX File (12 ตอน)</span></font></div><div><font face=\"Open Sans Condensed, sans-serif\"><span style=\"line-height: 26px;\">-SBS Law of the Jungle in Brazil (ฮยอก)</span></font></div><div><font face=\"Open Sans Condensed, sans-serif\"><span style=\"line-height: 26px;\">-VIXX TV 2 (ถึงปัจจุบัน)</span></font></div><div><font face=\"Open Sans Condensed, sans-serif\"><span style=\"line-height: 26px;\">- tvN First Day of Work (เอ็น)</span></font></div><div><font face=\"Open Sans Condensed, sans-serif\"><span style=\"line-height: 26px;\">- MBC One Fine Day (8 ตอน)</span></font></div><div><font face=\"Open Sans Condensed, sans-serif\"><span style=\"line-height: 26px;\">- JTBC Off To School (เอ็น) (4 ตอน)</span></font></div><div><font face=\"Open Sans Condensed, sans-serif\"><span style=\"line-height: 26px;\">- SBS Law of the Jungle in Nicaragua (เอ็น)</span></font></div><div><font face=\"Open Sans Condensed, sans-serif\"><span style=\"line-height: 26px;\">- SBS Law of the Jungle in Komodo (ฮงบิน)</span></font></div>"
+        }
+      ]
+    },
+    "MORE.html": {
+      "settings": {
+        "title": "Web Page Generator Title",
+        "meta_descr": "Web Page Generator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2u",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1df66a1a8ce6fa58d2d73fc123b44240-2000x1250.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\">ฺBACK</a>",
+          "title": "ช่องทางติดตามผลงาน",
+          "text": "คลิกรูปภาพด้านล่างเพื่อเข้าเว็บไซต์บริษัท"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2v",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#000000",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/photo-1400x779.jpg",
+              "width": 1400,
+              "link": "http://www.jelly-fish.co.kr/sub/artist_singer02.php?prof_id=26",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        }
+      ]
+    },
+    "SR.html": {
+      "settings": {
+        "title": "Web Site Builder Title",
+        "meta_descr": "Web Site Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".lead P": {
+              "color": "#232323"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2x",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "SERIES",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\">Back</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-30",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=X7FqE1zCrnA",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ตัวอย่างซีรี่ย์ <br>Moorim School",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-34",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "ภาพยนตร์<div>•\t2558: Hold On to Live (ฮยอก)</div><div>•\t2561: Goodbye My Father (ฮยอก<span style=\"font-size: 1.07rem; line-height: 1.5;\">)</span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">ละครโทรทัศน์</span></div><div>•\t2556: SBS The Heirs (ทุกคน) - นักแสดงประกอบ</div><div>•\t2557: MBC Hotel King (เอ็น) - นักแสดงสมทบ</div><div>•\t2557: SBS Glorious Day (ฮงบิน) - นักแสดงสมทบ</div><div>•\t2557: MBC Every1 Boarding House #24 (เคน) - นักแสดงนำ</div><div>•\t2558: SBS Family is Here (เอ็น) - นักแสดงสมทบ</div><div>•\t2558: KBS2 Sassy Go Go (เอ็น) - นักแสดงสมทบ</div><div>•\t2559: KBS2 Moorim School (ฮงบิน) - นักแสดงนำ</div><div>•\t2560: MBC Perfect Wife (เอ็น) - นักแสดงสมทบ</div><div>•\t2560: OCN Tunnel (เอ็น) - นักแสดงสมทบ</div><div>•\t2560: SBS Plus Wednesday 3:30 PM (มินิดราม่า) (ฮงบิน) - นักแสดงนำ</div><div>•\t2559: Naver TVcast These Guys Money? (เอ็น,ฮงบิน) - นักแสดงนำ</div><div><br></div>",
+          "text2": "ละครเพลง<div>•\t2555: Gwanghwamun Sonata (เอ็น) - นักแสดงเสริม (ก่อนเดบิวท์)</div><div>•\t2557: Full House The Musical (เลโอ) - นักแสดงนำ</div><div>•\t2558: Chess The Musical (เคน) - นักแสดงนำ</div><div>•\t2558: Cinderella (เคน) - นักแสดงนำ</div><div>•\t2559: MATA HARI Musical (เลโอ) - นักแสดงนำ</div><div>•\t2559: MONTE CRISTO (เลโอ) - นักแสดงนำ</div><div>•\t2559: In the Heights (เอ็น)</div><div>•\t2560: Boy Over Flowers (เคน) - นักแสดงนำ</div><div>•\t2560: Hamlet (เคน) - นักแสดงนำ</div><div>•\t2560: MATA HARI Musical (เลโอ) - นักแสดงนำ</div><div>•\t2560: Titanic (เคน)</div><div>•\t2560: The Last Kiss (เลโอ) - นักแสดงนำ</div><div><br></div><div>ละครเว็บ</div><div>•\t2559: Naver TVcast Tomorrow Boy (เอ็น) - นักแสดงนำ</div>•\t2559: Naver TVcast These Guys Money? (เอ็น,ฮงบิน) - นักแสดงนำ<div><br></div><div><br></div>"
+        }
+      ]
+    },
+    "VT.html": {
+      "settings": {
+        "title": "Website Builder Title",
+        "meta_descr": "Website Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2w",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1df66a1a8ce6fa58d2d73fc123b44240-2000x1250.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "VARIETY",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\">Back to MENU</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-text": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "header2-33",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=AIFcMRLVin8",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "ตัวอย่างวาไรตี้",
+          "text": "รายการวาไรตี้ WEEKLY IDOL&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-36",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text1": "รายการวาไรตี้<div>•\t2557: tvN The Romantic and Idol Season 2 (เอ็น)</div><div>•\t2557: MBC Music True Back Show (เอ็น)</div><div>•\t2557: MBC Every1 Hyungdon &amp; Daejoon’s Hitmaker (เอ็น , ฮยอก)</div><div>•\t2557: 140802 Let's Go! Dream Team II (เลโอ , ราวี่)</div><div>•\t2557: 140820 Weekly idol (บิ๊กบยอง - เอ็น , ฮยอก)</div><div>•\t2557: 141029 Weekly idol (ทั้งวง)</div><div>•\t2557: 141231 Weekly idol (บิ๊กบยอง - เอ็น , ฮยอก)</div><div>•\t2557: After School club (ทั้งวง)</div><div>•\t2558: 150115 Let's Go! Dream Team II - Fencing Special (เลโอ)</div><div>•\t2558: SBS Running Man -(เอ็น)</div><div>•\t2558: MBC Every1 'Bachelor Party' (เอ็น)</div><div>•\t2558: MBC We Got Married Season4 (เอ็น)แขกรับเชิญ</div><div>•\t2558: 151202 Weekly idol (เอ็น เลโอ เคน ราวี่ ฮยอก *ฮงบินติดถ่ายละคร)</div><div>•\t2559: 160304 MBC People of full capacity - (เอ็น , เคน) แขกรับเชิญ</div><div>•\t2559: 160401 MBC People of full capacity - (เคน) แขกรับเชิญ</div><div>•\t2559: 160926 Star Show 360 - ทั้งวง</div><div>•\t2559: 161003 Star Show 360 - ทั้งวง</div><div>•\t2560: 170214 Video Star - เลโอ</div><div>•\t2560: SBS Master Key ep.5 (ฮงบิน)</div><div>•\t2560: King of Mask Singer (เอ็น)</div>",
+          "text2": "รายการโทรทัศน์<div>•\t2558: SMTM season 4 (ราวี่)</div><div>•\t2558: King of Mask Singer (เคน)</div><div>•\t2559: King of Mask Singer (เลโอ)</div><div>•\t2559: Duet Song Festival (เคน)</div><div>•\t2559: King of Mask Singer (เคน-แขกรับเชิญ)</div><div>•\t2559: Duet Song Festival (เลโอ)</div><div>•\t2560: Singing Battle (เคน)</div><div>•\t2560: Singing Battle (เลโอ)</div><div>•\t2560: King of Mask Singer (เอ็น)</div><div><br></div>รายการวิทยุ<div>•\t2555: Starry night radio</div><div>•\t2556: Super Junior Kiss the Radio - SUKIRA</div><div>•\t2556: ShinDong's SSTP VIXX</div><div>•\t2557: MBC Simsimtapa Radio (VIXX &amp; Phantom)</div><div>•\t2557: ShinDong's SSTP VIXX</div><div><br><div><br></div><div><br></div></div>"
+        }
+      ]
+    }
+  }
+}
